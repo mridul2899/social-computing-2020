@@ -1,0 +1,17 @@
+Name: Mridul Agarwal
+Roll Number: 17QE30008
+Assignment: 2
+Social Computing, Autumn 2020
+
+To run the program, the following instruction must be given in the terminal:
+python gen_centrality.py
+python analyze_centrality.py
+Note: File facebook_combined.txt must be present in the same folder as the python files
+
+Dependencies with Versions tested on:
+python==3.7.9
+snap-stanford==5.0.0
+
+Time taken by files to run on Ubuntu 18.04, 8 GB RAM, i5-7200U 7th Gen Processor
+gen_centrality.py ~ 2 minutes 40 seconds
+analyze_centrality.py ~ 1 minute

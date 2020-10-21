@@ -1,0 +1,14 @@
+Name: Mridul Agarwal
+Roll Number: 17QE30008
+Assignment: 1
+Social Computing, Autumn 2020
+
+To run the program, the following instruction must be given in the terminal:
+python gen_structure.py <subgraph_name>
+Where, <subgraph_name> would be either of amazon.elist or facebook.elist
+Note: Files amazon.elist and facebook.elist must be present in the subgraphs folder
+
+Dependencies with Versions tested on:
+python==3.7.9
+snap-stanford==5.0.0
+numpy==1.19.1
