@@ -1,0 +1,24 @@
+Name: Mridul Agarwal
+Roll Number: 17QE30008
+Assignment: 3
+Social Computing, Autumn 2020
+
+To run the program, the following instruction must be given in the terminal:
+Task 1 - python main.py
+Task 2 - python main.py
+
+Dependencies with Versions tested on:
+python==3.7.9
+pandas==1.1.1
+spacy==2.3.2
+numpy==1.19.1
+fasttext==0.9.2
+xgboost==1.2.1
+scikit-learn==0.23.2
+
+Time taken by files to run on Ubuntu 18.04, 8 GB RAM, i5-7200U 7th Gen Processor
+Task 1 ~ 4-5 minutes
+Task 2 ~ 3-4 minutes
+
+Model used in Task 2 - xgboost
+Codes referred from - https://machinelearningmastery.com/develop-first-xgboost-model-python-scikit-learn
